@@ -1,1 +1,3 @@
 Git log1
+
+Log2
